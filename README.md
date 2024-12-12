@@ -1,2 +1,4 @@
 # RL_Coursework2
-PPO
+Proximal Policy Optimisation
+
+![](gif_file/contlander_ppo.gif)
